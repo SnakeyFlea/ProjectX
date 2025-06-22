@@ -30,6 +30,6 @@ We're rebuilding the map, UI, gameplay mechanics, and core systems from the grou
 
 Want to contribute, test, or follow development?
 
-- 🧪 **Beta Tester Application**: [Curreently Closed](#)
+- 🧪 **Beta Tester Application**: [Currently Closed](#)
 - 💬 **Join the Discord**: [discord.gg/yourlink](https://discord.gg/CnkgC6vmNV)
 - 🎥 **Follow our TikTok**: [@ProjectXFN](https://tiktok.com/@project_x_fn)
